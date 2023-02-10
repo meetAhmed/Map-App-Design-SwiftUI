@@ -1,5 +1,5 @@
 # SwiftUI Map App Design
 
-<video controls="" width="800" height="500" muted="true" loop="true" autoplay="true">
-<source src="https://github.com/meetAhmed/Map-App-Design-SwiftUI/Video/MapApp.mp4" type="video/mp4">
-</video>
+Demo Video attached:
+
+https://user-images.githubusercontent.com/42321000/218032290-e8cc6bb1-c53d-4270-93cd-73f96601935c.mp4
